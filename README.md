@@ -9,7 +9,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+We are interested in sales data and exploring customers' purchase patterns.
+
 
 ## Describe your dataset in about 150-200 words:
 
@@ -19,7 +20,7 @@ Our dataset consists of sales data from an American superstore. More specificall
 ## Team Members
 
 - Taevan Birch: I love data science!
-- Person 2: one sentence about you!
+- Izgi Kocacelebi : I love windsurfing!
 
 
 ## Images
